@@ -11,8 +11,8 @@ export default function Products() {
       <div className="grid grid-cols-2 md:grid-cols-4 gap-6 mb-12 mt-4">
         <div className="rounded-xl shadow-sm p-4 flex flex-col">
           <img
-            src="https://asaxiy.uz/custom-assets/images/products/konserva.png"
-            alt="product"
+            src=""
+            alt=""
             className="h-32 object-contain mx-auto mb-3"
           />
           <h3 className="text-sm font-medium mb-2">
@@ -30,8 +30,8 @@ export default function Products() {
         </div>
         <div className="rounded-xl shadow-sm p-4 flex flex-col">
           <img
-            src="https://asaxiy.uz/custom-assets/images/products/konserva.png"
-            alt="product"
+            src=""
+            alt=""
             className="h-32 object-contain mx-auto mb-3"
           />
           <h3 className="text-sm font-medium mb-2">
@@ -50,8 +50,8 @@ export default function Products() {
 
         <div className=" rounded-xl shadow-sm p-4 flex flex-col">
           <img
-            src="https://asaxiy.uz/custom-assets/images/products/konserva.png"
-            alt="product"
+            src=""
+            alt=""
             className="h-32 object-contain mx-auto mb-3"
           />
           <h3 className="text-sm font-medium mb-2">
@@ -70,8 +70,8 @@ export default function Products() {
 
         <div className="rounded-xl shadow-sm p-4 flex flex-col">
           <img
-            src="https://asaxiy.uz/custom-assets/images/products/konserva.png"
-            alt="product"
+            src=""
+            alt=""
             className="h-32 object-contain mx-auto mb-3"
           />
           <h3 className="text-sm font-medium mb-2">
@@ -96,8 +96,8 @@ export default function Products() {
       <div className="grid grid-cols-2 md:grid-cols-4 gap-6 mb-14">
         <div className="rounded-xl shadow-sm p-4 flex flex-col">
           <img
-            src="https://asaxiy.uz/custom-assets/images/products/konserva.png"
-            alt="product"
+            src=""
+            alt=""
             className="h-32 object-contain mx-auto mb-3"
           />
           <h3 className="text-sm font-medium mb-2">
@@ -115,8 +115,8 @@ export default function Products() {
         </div>
         <div className="rounded-xl shadow-sm p-4 flex flex-col">
           <img
-            src="https://asaxiy.uz/custom-assets/images/products/konserva.png"
-            alt="product"
+            src=""
+            alt=""
             className="h-32 object-contain mx-auto mb-3"
           />
           <h3 className="text-sm font-medium mb-2">
@@ -135,8 +135,8 @@ export default function Products() {
 
         <div className=" rounded-xl shadow-sm p-4 flex flex-col">
           <img
-            src="https://asaxiy.uz/custom-assets/images/products/konserva.png"
-            alt="product"
+            src=""
+            alt=""
             className="h-32 object-contain mx-auto mb-3"
           />
           <h3 className="text-sm font-medium mb-2">
@@ -155,8 +155,8 @@ export default function Products() {
 
         <div className="rounded-xl shadow-sm p-4 flex flex-col">
           <img
-            src="https://asaxiy.uz/custom-assets/images/products/konserva.png"
-            alt="product"
+            src=""
+            alt=""
             className="h-32 object-contain mx-auto mb-3"
           />
           <h3 className="text-sm font-medium mb-2">
@@ -181,8 +181,8 @@ export default function Products() {
       <div className="grid grid-cols-2 md:grid-cols-4 gap-6">
         <div className="rounded-xl shadow-sm p-4 flex flex-col">
           <img
-            src="https://asaxiy.uz/custom-assets/images/products/konserva.png"
-            alt="product"
+            src=""
+            alt=""
             className="h-32 object-contain mx-auto mb-3"
           />
           <h3 className="text-sm font-medium mb-2">
@@ -200,8 +200,8 @@ export default function Products() {
         </div>
         <div className="rounded-xl shadow-sm p-4 flex flex-col">
           <img
-            src="https://asaxiy.uz/custom-assets/images/products/konserva.png"
-            alt="product"
+            src=""
+            alt=""
             className="h-32 object-contain mx-auto mb-3"
           />
           <h3 className="text-sm font-medium mb-2">
@@ -220,8 +220,8 @@ export default function Products() {
 
         <div className=" rounded-xl shadow-sm p-4 flex flex-col">
           <img
-            src="https://asaxiy.uz/custom-assets/images/products/konserva.png"
-            alt="product"
+            src=""
+            alt=""
             className="h-32 object-contain mx-auto mb-3"
           />
           <h3 className="text-sm font-medium mb-2">
@@ -240,8 +240,8 @@ export default function Products() {
 
         <div className="rounded-xl shadow-sm p-4 flex flex-col">
           <img
-            src="https://asaxiy.uz/custom-assets/images/products/konserva.png"
-            alt="product"
+            src=""
+            alt=""
             className="h-32 object-contain mx-auto mb-3"
           />
           <h3 className="text-sm font-medium mb-2">

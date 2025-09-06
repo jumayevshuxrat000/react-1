@@ -4,9 +4,7 @@ import { FaChevronLeft, FaChevronRight } from "react-icons/fa";
 export default function Hero() {
   return (
     <section className="max-w-7xl mx-auto px-4 mt-6">
-      {/* Hero main block */}
       <div className="relative bg-white rounded-2xl shadow-sm overflow-hidden flex">
-        {/* Left part - text */}
         <div className="w-1/2 bg-green-500 text-white p-8 flex flex-col justify-center">
           <h2 className="text-2xl font-bold mb-3">
             Всегда свежие <br /> молочные продукты
@@ -21,8 +19,8 @@ export default function Hero() {
 
         <div className="w-1/2 flex items-center justify-center p-4">
           <img
-            src="https://convex.kz/local/templates/convex/images/van.png"
-            alt="Convex Van"
+            src=""
+            alt=""
             className="max-h-60 object-contain"
           />
         </div>
@@ -38,8 +36,8 @@ export default function Hero() {
       <div className="grid grid-cols-2 sm:grid-cols-4 gap-4 mt-6">
         <div className="bg-red-500 text-white rounded-xl p-4 flex flex-col items-start">
           <img
-            src="https://www.snickers.com/cdn-cgi/image/width=800,height=800,f=auto,quality=90/sites/g/files/fnmzdf3071/files/migrate-product-files/snack-bar.png"
-            alt="Snickers"
+            src=""
+            alt=""
             className="h-16 object-contain mb-3"
           />
           <h3 className="font-semibold">Популярные товары</h3>
@@ -48,8 +46,8 @@ export default function Hero() {
 
         <div className="bg-blue-400 text-white rounded-xl p-4 flex flex-col items-start">
           <img
-            src="https://m.media-amazon.com/images/I/81T3jS1MZgL._SL1500_.jpg"
-            alt="M&M"
+            src=""
+            alt=""
             className="h-16 object-contain mb-3"
           />
           <h3 className="font-semibold">Новинки</h3>
@@ -64,8 +62,8 @@ export default function Hero() {
 
         <div className="bg-yellow-400 text-white rounded-xl p-4 flex flex-col items-start">
           <img
-            src="https://png.pngtree.com/png-clipart/20231007/original/pngtree-chicken-meat-and-vegetables-in-kraft-box-png-image_13159363.png"
-            alt="Meal Box"
+            src=""
+            alt=""
             className="h-16 object-contain mb-3"
           />
           <h3 className="font-semibold">Комплекты</h3>
