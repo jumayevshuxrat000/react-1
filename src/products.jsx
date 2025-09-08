@@ -1,4 +1,5 @@
 import React from "react";
+import card__picture from "./assets/img/image 3.png"
 
 export default function Products() {
   return (
@@ -11,7 +12,7 @@ export default function Products() {
       <div className="grid grid-cols-2 md:grid-cols-4 gap-6 mb-12 mt-4">
         <div className="rounded-xl shadow-sm p-4 flex flex-col">
           <img
-            src=""
+            src={card__picture}
             alt=""
             className="h-32 object-contain mx-auto mb-3"
           />
@@ -30,7 +31,7 @@ export default function Products() {
         </div>
         <div className="rounded-xl shadow-sm p-4 flex flex-col">
           <img
-            src=""
+            src={card__picture}
             alt=""
             className="h-32 object-contain mx-auto mb-3"
           />
@@ -50,7 +51,7 @@ export default function Products() {
 
         <div className=" rounded-xl shadow-sm p-4 flex flex-col">
           <img
-            src=""
+            src={card__picture}
             alt=""
             className="h-32 object-contain mx-auto mb-3"
           />
@@ -70,7 +71,7 @@ export default function Products() {
 
         <div className="rounded-xl shadow-sm p-4 flex flex-col">
           <img
-            src=""
+            src={card__picture}
             alt=""
             className="h-32 object-contain mx-auto mb-3"
           />
@@ -96,7 +97,7 @@ export default function Products() {
       <div className="grid grid-cols-2 md:grid-cols-4 gap-6 mb-14">
         <div className="rounded-xl shadow-sm p-4 flex flex-col">
           <img
-            src=""
+            src={card__picture}
             alt=""
             className="h-32 object-contain mx-auto mb-3"
           />
@@ -115,7 +116,7 @@ export default function Products() {
         </div>
         <div className="rounded-xl shadow-sm p-4 flex flex-col">
           <img
-            src=""
+            src={card__picture}
             alt=""
             className="h-32 object-contain mx-auto mb-3"
           />
@@ -135,7 +136,7 @@ export default function Products() {
 
         <div className=" rounded-xl shadow-sm p-4 flex flex-col">
           <img
-            src=""
+            src={card__picture}
             alt=""
             className="h-32 object-contain mx-auto mb-3"
           />
@@ -155,7 +156,7 @@ export default function Products() {
 
         <div className="rounded-xl shadow-sm p-4 flex flex-col">
           <img
-            src=""
+            src={card__picture}
             alt=""
             className="h-32 object-contain mx-auto mb-3"
           />
@@ -181,7 +182,7 @@ export default function Products() {
       <div className="grid grid-cols-2 md:grid-cols-4 gap-6">
         <div className="rounded-xl shadow-sm p-4 flex flex-col">
           <img
-            src=""
+            src={card__picture}
             alt=""
             className="h-32 object-contain mx-auto mb-3"
           />
@@ -200,7 +201,7 @@ export default function Products() {
         </div>
         <div className="rounded-xl shadow-sm p-4 flex flex-col">
           <img
-            src=""
+            src={card__picture}
             alt=""
             className="h-32 object-contain mx-auto mb-3"
           />
@@ -220,7 +221,7 @@ export default function Products() {
 
         <div className=" rounded-xl shadow-sm p-4 flex flex-col">
           <img
-            src=""
+            src={card__picture}
             alt=""
             className="h-32 object-contain mx-auto mb-3"
           />
@@ -240,7 +241,7 @@ export default function Products() {
 
         <div className="rounded-xl shadow-sm p-4 flex flex-col">
           <img
-            src=""
+            src={card__picture}
             alt=""
             className="h-32 object-contain mx-auto mb-3"
           />

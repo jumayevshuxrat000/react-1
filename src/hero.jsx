@@ -1,5 +1,10 @@
 import React from "react";
 import { FaChevronLeft, FaChevronRight } from "react-icons/fa";
+import hero_img from "./assets/img/Rectangle 3.png"
+import scikers from "./assets/img/snickers_PNG13936 1.png"
+import mmm from "./assets/img/m_m_PNG33 1.png"
+import dic from "./assets/img/disc 1.png"
+import popka from "./assets/img/image 5.png"
 
 export default function Hero() {
   return (
@@ -19,9 +24,9 @@ export default function Hero() {
 
         <div className="w-1/2 flex items-center justify-center p-4">
           <img
-            src=""
+            src={hero_img}
             alt=""
-            className="max-h-60 object-contain"
+            className="h-30 object-contain"
           />
         </div>
 
@@ -36,7 +41,7 @@ export default function Hero() {
       <div className="grid grid-cols-2 sm:grid-cols-4 gap-4 mt-6">
         <div className="bg-red-500 text-white rounded-xl p-4 flex flex-col items-start">
           <img
-            src=""
+            src={scikers}
             alt=""
             className="h-16 object-contain mb-3"
           />
@@ -46,7 +51,7 @@ export default function Hero() {
 
         <div className="bg-blue-400 text-white rounded-xl p-4 flex flex-col items-start">
           <img
-            src=""
+            src={mmm}
             alt=""
             className="h-16 object-contain mb-3"
           />
@@ -55,16 +60,16 @@ export default function Hero() {
         </div>
 
         <div className="bg-purple-400 text-white rounded-xl p-4 flex flex-col items-start">
-          <div className="text-5xl font-bold mb-3">%</div>
+          <div className="text-5xl font-bold mb-3"><img src={dic} alt="" /></div>
           <h3 className="font-semibold">Акции</h3>
           <p className="text-sm">Лучшие цены</p>
         </div>
 
         <div className="bg-yellow-400 text-white rounded-xl p-4 flex flex-col items-start">
           <img
-            src=""
+            src={popka}
             alt=""
-            className="h-16 object-contain mb-3"
+            className="h-34 object-contain mb-3"
           />
           <h3 className="font-semibold">Комплекты</h3>
           <p className="text-sm">Все в одном</p>

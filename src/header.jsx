@@ -1,5 +1,6 @@
 import React from "react";
 import { FaShoppingCart } from "react-icons/fa";
+import logo from "./assets/img/image 1.png"
 
 
 export default function Header() {
@@ -8,7 +9,7 @@ export default function Header() {
       <div className="max-w-7xl mx-auto px-4 py-2 flex items-center justify-between">
         <div className="flex items-center gap-3">
           <img
-            src=""
+            src={logo}
             alt=""
             className="h-8"
           />
